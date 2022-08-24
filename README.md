@@ -4,3 +4,4 @@
 <p>✔ Aluno online Full Stack Javascript Onebitcode  <a href="https://onebitcode.com/lp/"><img src='https://user-images.githubusercontent.com/93799829/186506703-2e4a55f9-a751-4589-a7d0-4b4d5bc91fc1.gif' width="100px"></a></p>
 <p>✔ Aluno do Ensino Superior do IFSC (Instituto Federal de Santa Catarina) em ADS <a href="https://www.ifsc.edu.br"><img src='https://programassociaisbr.com.br/wp-content/uploads/2022/08/brasil-conta-com-instituto-federal-em-27-estados-atualmente-517abfda5b40f-300x250.png' width="30px"></a></p>
 
+- 🐱‍🐉 Desenvolvedor Web júnior
