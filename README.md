@@ -1,5 +1,4 @@
 <h1>Hello there! / Olá ! 🤖<img src="https://media0.giphy.com/media/KGMzZvWa5su2O5LCVR/giphy.gif?cid=6c09b952c4tyhm22a1wiatx00j3997ldr1ivm17vw50eze1m&rid=giphy.gif&ct=s" width="60px"></h1>
-<hr>
 
 <p>👨‍💻 - About me: Meu nome é <b>Sandro</b>, tenho <b>18 anos</b>. Atualmente cursando graduação de Análise e Desenvolvimento de Sistemas no <b>IFSC</b></p>
 
@@ -16,7 +15,7 @@
   
   [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandro-medeiros-da-cunha-362b60249/)
   
-  ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sandromedeiroscunha/)
 
 <h2 >🛠 Conhecimentos : </h2>
 <p align="center"><img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white'> <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white'> <img src='https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white'> <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E'> <img src='https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white'></p>
