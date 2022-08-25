@@ -25,4 +25,5 @@
 
 
 <p align="center"><img width="500px" align="center" src='https://github-readme-stats.vercel.app/api?username=sandrocunha1&show_icons=true&theme=synthwave' alt="SandroCunha1's GitHub stats">
+<br><br>
 <img align="center" width="500px" src='https://github-readme-stats.vercel.app/api/top-langs/?username=sandrocunha1&layout=compact&hide=html&theme=synthwave' alt="SandroCunha1's Top langs"></p>
