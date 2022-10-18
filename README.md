@@ -11,7 +11,7 @@
 - 🐱 Desenvolvedor Front-End júnior
 <br><br>
   
-  <p align="center"><img src='https://user-images.githubusercontent.com/93799829/186530211-5bb7c44e-ce67-4615-afb8-718007ff6cf9.gif' width="50px"><b>Procurando primeiro emprego na área como júnior/estágio </b><img src='https://user-images.githubusercontent.com/93799829/186530211-5bb7c44e-ce67-4615-afb8-718007ff6cf9.gif' width="50px"></p>
+  <p align="center"><img src='https://user-images.githubusercontent.com/93799829/186530211-5bb7c44e-ce67-4615-afb8-718007ff6cf9.gif' width="50px"><b> </b><img src='https://user-images.githubusercontent.com/93799829/186530211-5bb7c44e-ce67-4615-afb8-718007ff6cf9.gif' width="50px"></p>
   <p align="right"><img width="170px" style="position='absolute'" src='download20220905161600.png'</p>
   
 <p align="center"> 
