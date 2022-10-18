@@ -15,7 +15,7 @@
   <p align="right"><img width="170px" style="position='absolute'" src='download20220905161600.png'</p>
   
 <p align="center"> 
-<a href="https://www.linkedin.com/in/sandro-medeiros-da-cunha-362b60249/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
+<a href="https://www.linkedin.com/in/sandro-cunha-362b60249/"><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 <a href="https://www.instagram.com/sandromedeiroscunha/"><img src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white'></a>
 </p>
 <p align="right"></p>
